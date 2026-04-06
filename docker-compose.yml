@@ -1,0 +1,11 @@
+services:
+  # ── MeAI Backend (Node.js + TypeScript) ────────────────
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./backend/src:/app/src
+    command: npm run dev

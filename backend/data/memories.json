@@ -1,0 +1,58 @@
+[
+  {
+    "id": "b4892198-fdbc-4879-bb35-c132239505a1",
+    "type": "fact",
+    "content": "Name is Lucky",
+    "source": "chat",
+    "importance": 0.9,
+    "createdAt": "2026-03-22T23:01:10.450Z"
+  },
+  {
+    "id": "6ca54344-5a36-4033-9452-d47b9eeba0d7",
+    "type": "fact",
+    "content": "Age is 22 years old",
+    "source": "chat",
+    "importance": 0.7,
+    "createdAt": "2026-03-22T23:01:10.453Z"
+  },
+  {
+    "id": "a652dc7f-05d8-4de6-9828-f9686ddeaa27",
+    "type": "preference",
+    "content": "Loves building AI apps",
+    "source": "chat",
+    "importance": 0.8,
+    "createdAt": "2026-03-22T23:01:10.453Z"
+  },
+  {
+    "id": "48670b7d-786b-4c31-aed4-fffae06268f6",
+    "type": "preference",
+    "content": "Loves cricket",
+    "source": "chat",
+    "importance": 0.7,
+    "createdAt": "2026-03-23T14:49:24.046Z"
+  },
+  {
+    "id": "b7615322-e640-4769-a12d-9d8bf65b923f",
+    "type": "fact",
+    "content": "Building AI like Jarvis",
+    "source": "chat",
+    "importance": 0.9,
+    "createdAt": "2026-03-23T14:49:24.048Z"
+  },
+  {
+    "id": "db19d98e-34c2-4698-9bc2-1d26b95b265a",
+    "type": "fact",
+    "content": "Building AI apps like Jarvis",
+    "source": "chat",
+    "importance": 0.7,
+    "createdAt": "2026-03-23T15:25:09.993Z"
+  },
+  {
+    "id": "ad96861b-5611-4bb7-a607-05f0a36ae6a1",
+    "type": "event",
+    "content": "IPL 2026 is starting soon",
+    "source": "chat",
+    "importance": 0.8,
+    "createdAt": "2026-03-25T08:36:09.223Z"
+  }
+]

@@ -11,8 +11,7 @@ A neuromorphic AI companion with persistent episodic memory. Built with **TypeSc
 ### 1. Set up environment
 ```bash
 cp .env.example .env
-# Edit .env and add your GEMINI_API_KEY
-```
+
 
 ### 2. Start the backend
 ```bash

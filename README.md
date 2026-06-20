@@ -12,7 +12,6 @@ A neuromorphic AI companion with persistent episodic memory. Built with **TypeSc
 ```bash
 cp .env.example .env
 
-
 ### 2. Start the backend
 ```bash
 cd backend

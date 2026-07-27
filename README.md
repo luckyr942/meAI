@@ -16,7 +16,6 @@ cd backend
 npm install
 npm run dev
 ```
-
 ### 3. Start the mobile app
 ```bash
 cd mobile

@@ -7,7 +7,6 @@ A neuromorphic AI companion with persistent episodic memory. Built with **TypeSc
 ### Prerequisites
 - Node.js 18+
 - [Gemini API Key](https://aistudio.google.com/apikey) (free!)
-
 ### 1. Set up environment
 ```bash
 ### 2. Start the backend

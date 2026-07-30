@@ -46,7 +46,6 @@ meai/
 ├── docker-compose.yml
 └── .env.example
 ```
-
 ## 🧠 Architecture (Phase-wise)
 - **Phase 1**: Chat with AI companion (current) ✅
 - **Phase 2**: Memory extraction (entities, emotions, facts)

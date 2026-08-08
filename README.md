@@ -3,7 +3,6 @@
 A neuromorphic AI companion with persistent episodic memory. Built with **TypeScript everywhere** — Express backend + React Native (Expo) mobile app + Google Gemini API (free!).
 
 ## 🚀 Quick Start
-
 ### Prerequisites
 - Node.js 18+
 - [Gemini API Key](https://aistudio.google.com/apikey) (free!)

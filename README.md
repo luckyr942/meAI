@@ -56,6 +56,3 @@ meai/
 - **Backend**: Express + TypeScript + Google Gemini API
 - **Mobile**: React Native + Expo + TypeScript
 - **AI**: Gemini 2.0 Flash (free tier)
-
-## 📝 License
-MIT

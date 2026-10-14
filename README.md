@@ -5,7 +5,6 @@ A neuromorphic AI companion with persistent episodic memory. Built with **TypeSc
 - Node.js 18+
 - [Gemini API Key](https://aistudio.google.com/apikey) (free!)
 ### 1. Set up environment
-
 ### 2. Start the backend
 ```bash
 cd backend
@@ -49,7 +48,6 @@ meai/
 - **Phase 3**: Dual memory retrieval (Neo4j + vector DB)
 - **Phase 4**: Nightly consolidation + mood tracking
 - **Phase 5**: Auth, privacy, subscriptions
-
 ## 💡 Tech Stack
 - **Backend**: Express + TypeScript + Google Gemini API
 - **Mobile**: React Native + Expo + TypeScript

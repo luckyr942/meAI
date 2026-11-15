@@ -1,0 +1,19 @@
+{
+  "name": "meai-engine",
+  "version": "2.0.0",
+  "description": "MeAI Engine — Personal AI that runs on YOUR machine",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.22.1",
+    "ollama": "^0.5.15",
+    "sql.js": "^1.14.1",
+    "uuid": "^11.0.3",
+    "ws": "^8.18.0"
+  }
+}
